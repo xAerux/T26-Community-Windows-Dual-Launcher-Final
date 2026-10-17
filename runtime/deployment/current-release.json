@@ -1,0 +1,8 @@
+﻿{
+    "schemaVersion":  1,
+    "releaseId":  "chat-intelligence-d9dfc3c",
+    "executablePath":  "releases\\standard\\Terminator.App.exe",
+    "sha256":  "0CFAEA893B7A8C6A39D381611B21D8EC863167C91447F1BEE99D0668B028B7D6",
+    "promotedUtc":  "2026-10-03T02:00:00Z",
+    "verificationStatus":  "VERIFIED"
+}

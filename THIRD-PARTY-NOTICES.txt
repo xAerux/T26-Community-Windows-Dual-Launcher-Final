@@ -1,0 +1,34 @@
+T26 COMMUNITY PACKAGE — THIRD-PARTY COMPONENT NOTICE
+
+This package redistributes the following third-party runtime components.
+Versions and license metadata were read from the locally installed NuGet
+package metadata used by the verified T26 build. Their terms remain separate
+from the T26 first-party Apache License 2.0 grant.
+
+Avalonia 11.3.9 and related Avalonia desktop/free-desktop/native/Win32/X11
+packages — MIT; copyright notice in the package metadata identifies The
+AvaloniaUI Project. Project: https://avaloniaui.net/
+
+Avalonia.Angle.Windows.Natives 2.1.25547.20250602 — the redistributed package
+contains its own ANGLE license text; see the accompanying
+third-party/Avalonia-ANGLE-LICENSE.txt file.
+
+HarfBuzzSharp 8.3.1.1 and native assets — MIT; the package includes its own
+license text, copied as third-party/HarfBuzzSharp-LICENSE.txt.
+
+SkiaSharp 2.88.9 and native assets — MIT; the package includes license and
+third-party notice text, copied as third-party/SkiaSharp-LICENSE.txt and
+third-party/SkiaSharp-THIRD-PARTY-NOTICES.txt.
+
+Microsoft.Data.Sqlite 9.0.0 — MIT; package metadata identifies Microsoft
+Corporation as copyright holder.
+
+SQLitePCLRaw 2.1.10 components — Apache-2.0; package metadata identifies
+SourceGear, LLC as copyright holder.
+
+Tmds.DBus.Protocol 0.21.2 — MIT; package metadata identifies Tom Deseyn as
+copyright holder.
+
+The package does not redistribute .NET runtime files or Ollama model weights.
+Review upstream package terms before any commercial redistribution or
+republishing beyond community testing.
