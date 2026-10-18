@@ -5,8 +5,6 @@ A two-mode Windows launcher package for T26.
 
 [Download v1.0.0](../../releases/latest) · [Quick Start](#quick-start) · [Optional Local AI](AI-SETUP.md)
 
-![T26 launcher screenshot](docs/images/t26-launcher.png)
-
 ## Quick Start
 
 1. Download and extract the release ZIP.
